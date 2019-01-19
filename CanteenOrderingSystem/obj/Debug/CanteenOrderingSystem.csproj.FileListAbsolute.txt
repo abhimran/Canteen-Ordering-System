@@ -1,0 +1,10 @@
+D:\CanteenProject\CanteenOrderingSystem\CanteenOrderingSystem\bin\Debug\CanteenOrderingSystem.exe.config
+D:\CanteenProject\CanteenOrderingSystem\CanteenOrderingSystem\bin\Debug\CanteenOrderingSystem.exe
+D:\CanteenProject\CanteenOrderingSystem\CanteenOrderingSystem\bin\Debug\CanteenOrderingSystem.pdb
+D:\CanteenProject\CanteenOrderingSystem\CanteenOrderingSystem\obj\Debug\CanteenOrderingSystem.csprojAssemblyReference.cache
+D:\CanteenProject\CanteenOrderingSystem\CanteenOrderingSystem\obj\Debug\CanteenOrderingSystem.Canteen.resources
+D:\CanteenProject\CanteenOrderingSystem\CanteenOrderingSystem\obj\Debug\CanteenOrderingSystem.Properties.Resources.resources
+D:\CanteenProject\CanteenOrderingSystem\CanteenOrderingSystem\obj\Debug\CanteenOrderingSystem.csproj.GenerateResource.cache
+D:\CanteenProject\CanteenOrderingSystem\CanteenOrderingSystem\obj\Debug\CanteenOrderingSystem.csproj.CoreCompileInputs.cache
+D:\CanteenProject\CanteenOrderingSystem\CanteenOrderingSystem\obj\Debug\CanteenOrderingSystem.exe
+D:\CanteenProject\CanteenOrderingSystem\CanteenOrderingSystem\obj\Debug\CanteenOrderingSystem.pdb
